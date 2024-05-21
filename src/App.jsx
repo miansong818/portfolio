@@ -14,10 +14,11 @@ function App() {
       <main className='main'>
         <Home />
         <About />
+        {/* <About />
         <Resume />
         <Article />
         <Blog />
-        <Contact />
+        <Contact /> */}
       </main>
     </>
   )
